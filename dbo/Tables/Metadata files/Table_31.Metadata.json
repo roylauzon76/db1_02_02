@@ -2,9 +2,9 @@
   "Column": [
     {
       "schem": "dbo",
-      "obj": "Table_1",
+      "obj": "Table_31",
       "type": "Table",
-      "name": "id1",
+      "name": "id31",
       "system_type_id": 239,
       "user_type_id": 239,
       "max_length": 20,
